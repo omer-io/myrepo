@@ -1,3 +1,3 @@
 # Rakurai
 
-I am Malik Omer.
+Hello, I am Malik Omer.
